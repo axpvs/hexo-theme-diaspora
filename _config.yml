@@ -27,7 +27,7 @@ cover:
 
  
 # 是否使用mathjax
-mathjax: false
+mathjax: true
 
 
 # 是否关闭默认滚动条
@@ -88,7 +88,7 @@ keywords: Fechin
 google_analytics: 
 
 # 网站ico
-favicon: /img/favicon.png
+favicon: 54badc9dac11b751.jpg
 
 # rss文件
 rss: atom.xml
